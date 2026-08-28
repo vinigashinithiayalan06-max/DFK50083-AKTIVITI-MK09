@@ -1,0 +1,16 @@
+REKOD PESAKIT LAMA
+
+Nama: Ali
+Berat: 70 kg
+Tinggi: 1.75 m
+BMI: 22.86
+
+Nama: Siti
+Berat: 60 kg
+Tinggi: 1.60 m
+BMI: 23.44
+
+Nama: Kumar
+Berat: 80 kg
+Tinggi: 1.70 m
+BMI: 27.68
